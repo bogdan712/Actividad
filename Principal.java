@@ -11,6 +11,7 @@ package com.mycompany.examenprogramacion;
  */
 public class Principal {
     public static void main(String[] args) {
+        System.out.println("Hola soy Sebas");
         MetodoEstatico.Ex();
     }
 }
